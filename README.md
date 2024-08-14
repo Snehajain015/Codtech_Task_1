@@ -1,11 +1,11 @@
-Name:Sneha Jain
-Company:CODTECH IT SOLUTIONS
-ID:CT08DS6862Exploratory
-Domain:Data Analytics
+Name:Sneha Jain\n
+Company:CODTECH IT SOLUTIONS\n
+ID:CT08DS6862\n
+Domain:Data Analytics\n
 Duration:August to September
 
 
-Data Analysis (EDA) Project
+Exploratory Data Analysis (EDA) Project
 
 Project Overview
 This project involves performing Exploratory Data Analysis (EDA) on a dataset of choice using Python libraries. 
